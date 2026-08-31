@@ -176,7 +176,7 @@ customer-churn-ml-xai/
 
 ```bash
 git clone <this-repo-url>
-cd customer-churn-ml-xai
+cd ML_XAI_benchmark
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
