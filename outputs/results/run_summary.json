@@ -1,0 +1,7 @@
+{
+  "best_model": "XGBoost",
+  "best_roc_auc": 0.8469,
+  "test_size": 1409,
+  "train_size": 5634,
+  "random_state": 42
+}
